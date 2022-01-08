@@ -1,0 +1,12 @@
+.nav-menu {
+  color: blue;
+}
+.nav-menu li {
+  background-color: black;
+}
+.nav-menu li a {
+  color: white;
+}
+.nav-menu p {
+  color: red;
+}
